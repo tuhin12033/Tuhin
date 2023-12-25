@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://www.toprevenuegate.com/juj9g87u?key=98fbe2ab8a21bb17578c979291f93d6e/`
+					`https://thaudray.com/4/6815048/`
 				}`,
 			},
 		};
