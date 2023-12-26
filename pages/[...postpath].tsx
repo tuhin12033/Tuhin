@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://www.blogger.com/u/3/blog/posts/3024575660067398104?hl=en&tab=jj/`
+					`https://keewoach.net/4/6815048/`
 				}`,
 			},
 		};
