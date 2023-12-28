@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://dev-mrtuhinhub.pantheonsite.io/graphql/` + encodeURL(path as string)
+					`https://dev-mrtuhinhub.pantheonsite.io/hilsa-ilisha/` + encodeURL(path as string)
 				}`,
 			},
 		};
